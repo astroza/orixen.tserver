@@ -1,0 +1,9 @@
+{
+  "name": "orixen.avl",
+  "version": "0.0.1",
+  "description": "Orixen AVL Engine",
+  "dependencies": {
+    "express": "~4.8.7",
+    "mongodb": "~1.4.12"
+  }
+}
